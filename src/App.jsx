@@ -5,6 +5,7 @@ import AboutPage from "./pages/AboutPage";
 import ContactPage from "./pages/ContactPage";
 import PostsPage from "./pages/PostsPage";
 import NotFoundPage from "./pages/NotFoundPage";
+import "./sandbox/sandbox";
 
 export default function App() {
   return (
